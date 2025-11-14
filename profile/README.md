@@ -1,4 +1,4 @@
-# Elevature Pty Ltd :arrow_up:
+# ![Elevature Logo](elevature.png) Elevature Pty Ltd
 [website](https://www.elevature.com.au)
 
 Help your team grow faster and focus on what matters by integrating your applications and automating your business process and workflows.
