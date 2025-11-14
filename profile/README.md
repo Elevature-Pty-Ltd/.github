@@ -1,4 +1,4 @@
-# <img src="elevature.png" alt="Elevature Logo" width="64px" /> Elevature Pty Ltd
+# <img src="elevature.png" alt="Elevature Logo" width="42x" /> Elevature Pty Ltd
 [website](https://www.elevature.com.au)
 
 Help your team grow faster and focus on what matters by integrating your applications and automating your business process and workflows.
